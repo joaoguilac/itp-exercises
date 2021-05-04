@@ -6,7 +6,7 @@
 int main (){
   double r=5.0;               // radius
   double circle;
-  circle = 2 * PI * r;       // utilizamos o Pi e n√£o 3.
+  circle = 2 * PI * r;       // utilizamos o Pi e n„o 3.
   printf("%lf", circle);
   printf("%s", NEWLINE );
   return 0;
